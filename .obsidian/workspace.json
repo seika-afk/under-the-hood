@@ -11,17 +11,14 @@
             "id": "055a1338bc695e50",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Books.canvas",
-                "viewState": {
-                  "x": -55,
-                  "y": 50,
-                  "zoom": 0
-                }
+                "file": "Systems/Pragmatic Programmer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Books"
+              "icon": "lucide-file",
+              "title": "Pragmatic Programmer"
             }
           }
         ]
@@ -102,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.canvas",
+                "file": "Systems/Pragmatic Programmer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.canvas",
+                "file": "Systems/Pragmatic Programmer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -164,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.canvas",
+                "file": "Systems/Pragmatic Programmer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,14 +188,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb1eb948beec5295",
+  "active": "055a1338bc695e50",
   "lastOpenFiles": [
+    "6.md",
+    "Systems/Pragmatic Programmer.md",
+    "Books.canvas",
     "Systems",
     "backend/Chapters/Chapter1/HTTPS + CORS.md",
     "backend/Images/Pasted image 20261106091142.png",
     "backend/Images/Pasted image 20261106090405.png",
     "backend/Images/Pasted image 20261105180428.png",
-    "Books.canvas",
     "Welcome.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.mjs",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.d.mts",
@@ -209,7 +208,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.d.cts",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.cjs",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/util/base64.js",
-    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/isaac.js",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/readme.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/license.md",
@@ -232,7 +230,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/@esbuild/linux-x64/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/CHANGELOG.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/vary/README.md",
     "backend/Images/Pasted image 20261104103830.png",
     "backend/Images/Pasted image 20261104095618.png",
     "backend/Images/Pasted image 20261103182255.png",
