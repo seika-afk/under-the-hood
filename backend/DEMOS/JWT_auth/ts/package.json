@@ -1,0 +1,27 @@
+{
+  "name": "jwt-auth-ts",
+  "version": "1.0.0",
+  "description": "Minimal JWT Auth demo in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "watch": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "keywords": ["jwt", "auth", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.8",
+    "@types/node": "^22.13.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

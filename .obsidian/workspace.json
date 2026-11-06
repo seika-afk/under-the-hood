@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "131fcad61b415e9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "75a9375e98055deb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8079e3f1e1eb1b2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8f456184ab8f697",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fab8b530029450f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1eb948beec5295",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "519e694c4cbae1fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15eb54f264a8bc8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c46efba7d13bd657",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bce0a93603ad78b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c17dcdd850d4488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2e6950ea675a9173",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9b43defdea1fda53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "58b64e7e3b3efcf8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3a15e7d4e46a5d23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb1eb948beec5295",
+  "lastOpenFiles": [
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.mjs",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.d.mts",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.d.cts",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.cjs",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.mjs",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.d.mts",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.d.cts",
+    "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.cjs",
+    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/util/base64.js",
+    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/isaac.js",
+    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/accum.js",
+    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/readme.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/license.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/jsonwebtoken/node_modules/ms/readme.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/jsonwebtoken/node_modules/ms/license.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/dist/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/serve-static/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/send/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/range-parser/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/qs/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/node/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/ms/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/express-serve-static-core/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/express/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/connect/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/body-parser/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/bcryptjs/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/@esbuild/linux-x64/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/CHANGELOG.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/vary/README.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/vary/HISTORY.md",
+    "backend/DEMOS/JWT_auth/ts/node_modules/utils-merge/README.md",
+    "backend/Images/Pasted image 20261104103830.png",
+    "backend/Images/Pasted image 20261104095618.png",
+    "backend/Images/Pasted image 20261103182255.png",
+    "backend/Images/Pasted image 20261103181609.png",
+    "backend/Images/Pasted image 20261103181545.png",
+    "backend/Images/Pasted image 20261103175411.png",
+    "backend/Images/Pasted image 20260925222202.png",
+    "backend/Images/Pasted image 20260925222200.png",
+    "backend/Images/Pasted image 20260925222049.png",
+    "backend/Images/Pasted image 20260925221216.png"
+  ]
+}
