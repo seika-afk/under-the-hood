@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"501acf3ffdf664ff","type":"text","text":"backend","x":-320,"y":-200,"width":250,"height":60},
+		{"id":"64a79e9c8d6ca670","type":"text","text":"web security\n","x":-340,"y":-20,"width":250,"height":60},
+		{"id":"dedb8c922c208829","type":"text","text":"Network security\n","x":-340,"y":100,"width":250,"height":60},
+		{"id":"e4a496a559f91616","type":"text","text":"1. The Pragmatic Programmer — David Thomas & Andrew Hunt\n\n2. Clean Code — Robert C. Martin\n\n3. A Philosophy of Software Design — John Ousterhout\n\n4. Designing Data-Intensive Applications — Martin Kleppmann\n\n5. Computer Systems: A Programmer's Perspective\n\n6. Forge Your Future with Open Source","x":-20,"y":-120,"width":250,"height":420}
+	],
+	"edges":[]
+}

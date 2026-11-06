@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "75a9375e98055deb",
+        "id": "a5ea8869ce05f1c4",
         "type": "tabs",
         "children": [
           {
-            "id": "f8079e3f1e1eb1b2",
+            "id": "055a1338bc695e50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Books.canvas",
+                "viewState": {
+                  "x": -55,
+                  "y": 50,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Books"
             }
           }
         ]
@@ -95,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Books.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,6 +193,13 @@
   },
   "active": "cb1eb948beec5295",
   "lastOpenFiles": [
+    "Systems",
+    "backend/Chapters/Chapter1/HTTPS + CORS.md",
+    "backend/Images/Pasted image 20261106091142.png",
+    "backend/Images/Pasted image 20261106090405.png",
+    "backend/Images/Pasted image 20261105180428.png",
+    "Books.canvas",
+    "Welcome.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.mjs",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.d.mts",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.d.cts",
@@ -194,7 +210,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.cjs",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/util/base64.js",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/isaac.js",
-    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/accum.js",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/readme.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/license.md",
@@ -218,17 +233,12 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/side-channel-weakmap/CHANGELOG.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/vary/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/vary/HISTORY.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/utils-merge/README.md",
     "backend/Images/Pasted image 20261104103830.png",
     "backend/Images/Pasted image 20261104095618.png",
     "backend/Images/Pasted image 20261103182255.png",
     "backend/Images/Pasted image 20261103181609.png",
     "backend/Images/Pasted image 20261103181545.png",
     "backend/Images/Pasted image 20261103175411.png",
-    "backend/Images/Pasted image 20260925222202.png",
-    "backend/Images/Pasted image 20260925222200.png",
-    "backend/Images/Pasted image 20260925222049.png",
-    "backend/Images/Pasted image 20260925221216.png"
+    "backend/Images/Pasted image 20260925222202.png"
   ]
 }

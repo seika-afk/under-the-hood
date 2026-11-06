@@ -191,3 +191,23 @@ Browsers enforce the **Same-Origin Policy**: JavaScript on a page from one origi
 
 301..303 : may drop post + resource
 307,308 dont
+![[Pasted image 20261106090405.png]]
+
+
+
+# Proxies
+
+
+![[Pasted image 20261106091142.png]]
+
+
+
+# SSL ,TLS , HTTPS
+
+**SSL** (Secure Sockets Layer), the original protocol for securing client-server communication. 
+- now _obsolete and disabled_ due to discovered vulnerabilities; the name persists only colloquially.
+
+**TLS** (Transport Layer Security), SSL’s modern successor. It does two things: encrypts data **in transit** so an eavesdropper can’t read it and a tamperer can’t silently alter it, and uses **certificates** to authenticate that the server really is who it claims to be.
+
+
+HTTPS : http inside tls
