@@ -20,3 +20,19 @@ Don’t Live with Broken Windows
 Don’t leave “broken windows’’ (bad designs, wrong decisions, or poor code) unrepaired
 
 "no broken windows"
+
+Everyone will guard their own resources. Sometimes this is called “start-up fatigue.’
+
+It’s time to bring out the stones. Work out what you can reasonably ask for. Develop it well. Once you’ve got it, show people, and let them marvel
+
+
+```
+People find it easier to join an ongoing success. Show them a glimpse of the future and you’ll get them to rally around
+```
+
+
+```
+Remember the big picture
+```
+
+

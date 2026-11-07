@@ -1,4 +1,5 @@
 
+
 Application layer” means it’s the topmost layer, the one that defines the _meaning_ of a message (this is a GET for `/users/5`)
 
 ![[Pasted image 20260925215658.png]]
@@ -211,3 +212,14 @@ Browsers enforce the **Same-Origin Policy**: JavaScript on a page from one origi
 
 
 HTTPS : http inside tls
+
+
+![[Pasted image 20261107075232.png]]
+
+
+
+
+```
+**The whole flow in one breath:** a client opens a connection, reusable (sec 16), usually TLS-encrypted (sec 20), often through a reverse proxy (sec 18), and sends a self-contained request (sec 1): a method with safe/idempotent/cacheable semantics (sec 6), a URL, headers (sec 4-5), and an optional body (sec 3). The stateless server re-establishes identity (sec 8), checks authorization and preconditions (sec 10, sec 13), negotiates the best representation (sec 14), consults caches (sec 12), performs the work, and returns a status-coded response (sec 10), possibly a redirect (sec 11), a partial range (sec 15), or a stream (sec 17). Internalize that loop and the headers that steer each step, and you can reason about and debug the overwhelming majority of backend HTTP you’ll ever meet
+
+```
