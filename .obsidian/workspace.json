@@ -11,14 +11,12 @@
             "id": "055a1338bc695e50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Systems/Pragmatic Programmer.md",
-                "mode": "source",
-                "source": false
+                "file": "backend/Images/Pasted image 20261108100318.png"
               },
-              "icon": "lucide-file",
-              "title": "Pragmatic Programmer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261108100318"
             }
           },
           {
@@ -97,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c46efba7d13bd657",
@@ -203,15 +200,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "055a1338bc695e50",
+  "active": "cb1eb948beec5295",
   "lastOpenFiles": [
-    "backend/Chapters/Chapter 3.md",
-    "Pasted image 20261108101924.png",
-    "Pasted image 20261108101653.png",
-    "backend/Chapters/Chapter 2.md",
-    "Pasted image 20261108100620.png",
-    "Pasted image 20261108100318.png",
     "Systems/Pragmatic Programmer.md",
+    "backend/Chapters/Chapter 3.md",
+    "backend/Images/Pasted image 20261108101924.png",
+    "backend/Images/Pasted image 20261108101653.png",
+    "backend/Chapters/Chapter 2.md",
+    "backend/Images/Pasted image 20261108100620.png",
+    "backend/Images/Pasted image 20261108100318.png",
     "Pasted image 20261107080957.png",
     "Pasted image 20261107080910.png",
     "Pasted image 20261107080523.png",
