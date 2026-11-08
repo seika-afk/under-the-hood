@@ -21,3 +21,18 @@ An optional `key=value` pair in the query string, used to **filter, sort, pagina
 ##### Nesting in Routing
 ![[Pasted image 20261107080957.png]]
 
+
+
+![[Pasted image 20261108100318.png]]
+
+
+
+### Why Versioning in API
+Why bother? Suppose v1 returns each product as `{ id, name, price }`. Later, new requirements arrive, say you now serve a mobile app and must change the response shape, renaming `name` to `title`. If you mutate the live route, you break every existing client. Versioning lets both shapes live at once:
+
+
+
+### Catch All Routes
+
+![[Pasted image 20261108100620.png]]
+

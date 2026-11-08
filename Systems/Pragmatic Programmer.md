@@ -1,3 +1,5 @@
+
+
 Pragmatic philosophy is the idea that you should judge ideas, decisions, and actions by their practical consequences and whether they actually work in reality
 
 One of the cornerstones of the pragmatic philosophy is the idea of taking responsibility for yourself and your actions in terms of your career advancement
@@ -36,3 +38,42 @@ Remember the big picture
 ```
 
 
+
+## Good - Enough Software
+you can discipline yourself to write software that’s good enough—good enough for your users, for future maintainers, for your own peace of mind. You’ll find that you are more productive and your users are happier
+
+
+```
+Good enough:
+All systems must meet their users’ requirements to be successful, and meet basic performance, privacy, and security standards. We are simply advocating that users be given an opportunity to participate in the process of deciding when what you’ve produced is good enough for their needs
+```
+
+
+```
+Make Quality a Requirements Issue
+```
+
+
+##  Your Knowledge Portfolio
+
+
+```
+Your ability to learn new things is your most important strategic asset. But how do you learn how to learn, and how do you know what to learn?
+```
+
+
+##### Invest Regularly
+The habit is as important as the sums, so plan to use a consistent time and place, away from interruptions. Learn regularly something new
+
+
+##### Diversify
+The more different things you know, the more valuable you are. As a baseline, you need to know the ins and outs of the particular technology you are working with currently. But don’t stop there. The face of computing changes rapidly
+
+##### Manage risk
+Technology exists along a spectrum from risky, potentially high-reward to low-risk, low-reward standards.
+
+##### Buy low, sell high
+Learning an emerging technology before it becomes popular can be just as hard as finding an undervalued stock, but the payoff can be just as rewarding.
+
+
+Critically Analyze What You Read and Hear
