@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Chapters/Chapter 4.md",
+                "file": "backend/Chapters/Chapter 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4"
+              "title": "Chapter 5"
             }
           }
         ]
@@ -205,20 +205,21 @@
   },
   "active": "055a1338bc695e50",
   "lastOpenFiles": [
+    "backend/Chapters/Chapter 5.md",
+    "backend/Images/Pasted image 20261110110349.png",
+    "backend/Images/Pasted image 20261110110157.png",
+    "backend/Images/Pasted image 20261110104209.png",
     "backend/Chapters/Chapter 4.md",
-    "backend/Chapters/Chapter 3.md",
-    "backend/Images/Pasted image 20261109101636.png",
-    "backend/Images/Pasted image 20261109101236.png",
-    "backend/Images/Pasted image 20261109101043.png",
-    "backend/Images/Pasted image 20261108100318.png",
+    "backend/Images/Pasted image 20261110105422.png",
+    "backend/Images/Pasted image 20261110105333.png",
+    "backend/Images/Pasted image 20261110105053.png",
+    "backend/Images/Pasted image 20261110105040.png",
+    "backend/Images/Pasted image 20261110104937.png",
+    "backend/Images/Pasted image 20261110104901.png",
+    "backend/Images/Pasted image 20261110104839.png",
     "Systems/Pragmatic Programmer.md",
-    "backend/Images/Pasted image 20261108101924.png",
-    "backend/Images/Pasted image 20261108101653.png",
+    "backend/Chapters/Chapter 3.md",
     "backend/Chapters/Chapter 2.md",
-    "backend/Images/Pasted image 20261108100620.png",
-    "Pasted image 20261107080957.png",
-    "Pasted image 20261107080910.png",
-    "Pasted image 20261107080523.png",
     "backend/Chapters/Chapter1/HTTPS + CORS.md",
     "6.md",
     "Books.canvas",
@@ -249,7 +250,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/express/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/connect/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/body-parser/README.md"
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/connect/README.md"
   ]
 }

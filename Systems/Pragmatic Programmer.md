@@ -1,4 +1,4 @@
-# Chapter 0
+s# Chapter 0
 
 Pragmatic philosophy is the idea that you should judge ideas, decisions, and actions by their practical consequences and whether they actually work in reality
 
