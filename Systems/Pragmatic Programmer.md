@@ -115,3 +115,22 @@ DRY is about the duplication of knowledge, of intent. It’s about expressing th
 Not All Code Duplication Is Knowledge Duplication
 Duplication in Documentation
 DRY Violations in Data
+
+
+overall ` MAKE IT EASY TO REUSE OR CHANGE`
+
+
+
+# 10 Orthogonality
+
+```
+Two or more things are orthogonal if changes in one do not affect any of the others. In a well-designed system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.
+```
+
+Eliminate Effects Between Unrelated Things
+
+
+"modular"
+"component based"
+"layered"
+![[Pasted image 20261110111640.png]]
