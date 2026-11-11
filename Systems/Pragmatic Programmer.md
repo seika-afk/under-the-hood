@@ -161,6 +161,26 @@ Often you’ll come across a set of functions that all look similar—maybe they
 Pretty easier , test each components separately
 
 
+## 11 Reversibility
+
+
+```
+But you said we’d use database XYZ! We are 85% done coding the project, we can’t change now!” the programmer protested. “Sorry, but our company decided to standardize on database PDQ instead—for all projects. It’s out of my hands. We’ll just have to recode. All of you will be working weekends until further notice
+```
+
+Changes don’t have to be that Draconian, or even that immediate. But as time goes by, and your project progresses, you may find yourself stuck in an untenable position
+
+### Flexible Architecture
+
+While many people try to keep their code flexible, you also need to think about maintaining flexibility in the areas of architecture, deployment, and vendor integration
+What you can do is make it easy to change. Hide third-party APIs behind your own abstraction layers
+
+No one knows what the future may hold, especially not us! So enable your code to rock-n-roll: to “rock on’’ when it can, to roll with the punches when it must.
+
+
+## 12 . Tracer Bullets
+
+
 
 
 
