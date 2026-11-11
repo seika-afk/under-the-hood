@@ -134,3 +134,53 @@ Eliminate Effects Between Unrelated Things
 "component based"
 "layered"
 ![[Pasted image 20261110111640.png]]
+
+
+
+
+```
+Decorator Pattern: adding functionality to things without changing them.
+```
+
+
+Keep your code decoupled
+
+Write shy code—modules that don’t reveal anything unnecessary to other modules and that don’t rely on other modules’ implementations.If you need to change an object’s state, get the object to do it for you. This way your code remains isolated from the other code’s implementation and increases the chances that you’ll remain orthogonal.
+
+Avoid global data
+
+Every time your code references global data, it ties itself into the other components that share that data. Even globals that you intend only to read can lead to trouble (for example, if you suddenly need to change your code to be multithreaded). In general, your code is easier to understand and maintain if you explicitly pass any required context into your modules. In object-oriented applications, context is often passed as parameters to
+
+Avoid similar functions
+
+Often you’ll come across a set of functions that all look similar—maybe they share common code at the start and end, but each has a different central algorithm. Duplicate code is a symptom of structural problems. Have a look at the Strategy pattern in Design Patterns for a better implementation.
+
+
+#### Testing it :
+
+Pretty easier , test each components separately
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

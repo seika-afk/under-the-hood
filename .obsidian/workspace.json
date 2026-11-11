@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Chapters/Chapter 5.md",
+                "file": "backend/Chapters/Chapter 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5"
+              "title": "Chapter 6"
             }
           }
         ]
@@ -205,20 +205,21 @@
   },
   "active": "055a1338bc695e50",
   "lastOpenFiles": [
+    "backend/Chapters/Chapter 6.md",
+    "Pasted image 20261111082515.png",
+    "backend/Chapters/Chapter 5.md",
+    "backend/Images/Pasted image 20261111082127.png",
+    "backend/Images/Pasted image 20261111081512.png",
+    "backend/Images/Pasted image 20261111081311.png",
+    "backend/Images/Pasted image 20261111081236.png",
+    "Systems/Pragmatic Programmer.md",
     "Systems/Images",
     "Systems/Images/Pasted image 20261110111640.png",
-    "backend/Chapters/Chapter 5.md",
     "backend/Images/Pasted image 20261110110349.png",
     "backend/Images/Pasted image 20261110110157.png",
     "backend/Images/Pasted image 20261110104209.png",
     "backend/Chapters/Chapter 4.md",
     "backend/Images/Pasted image 20261110105422.png",
-    "backend/Images/Pasted image 20261110105333.png",
-    "backend/Images/Pasted image 20261110105053.png",
-    "backend/Images/Pasted image 20261110105040.png",
-    "backend/Images/Pasted image 20261110104937.png",
-    "backend/Images/Pasted image 20261110104901.png",
-    "Systems/Pragmatic Programmer.md",
     "backend/Chapters/Chapter 3.md",
     "backend/Chapters/Chapter 2.md",
     "backend/Chapters/Chapter1/HTTPS + CORS.md",
@@ -234,7 +235,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.d.mts",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.d.cts",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/cjs/api/index.cjs",
-    "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/util/base64.js",
     "backend/DEMOS/JWT_auth/ts/node_modules/bcryptjs/src/bcrypt/prng/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/readme.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/send/node_modules/ms/license.md",
@@ -250,7 +250,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/express-serve-static-core/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/express/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/connect/README.md"
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/express/README.md"
   ]
 }
