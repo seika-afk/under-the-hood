@@ -12,8 +12,7 @@ Provide Options, Don’t Make Lame Excuses
 When you find yourself saying, “I don’t know,” be sure to follow it up with “—but I’ll find out.” It’s a great way to admit what you don’t know, but then take responsibility
 ```
 
-Psychologists have done studies  that show hopelessness can be contagious
-
+==Psychologists have done studies  that show hopelessness can be contagious==
 
 ```
 Don’t Live with Broken Windows

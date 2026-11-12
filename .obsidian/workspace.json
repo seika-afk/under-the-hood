@@ -35,8 +35,7 @@
               "title": "Chapter 6"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,13 +203,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "0c261ae13f32b743",
+  "active": "055a1338bc695e50",
   "lastOpenFiles": [
+    "backend/Chapters/Chapter 6.md",
     "Pasted image 20261112120859.png",
     "Pasted image 20261112120550.png",
     "Pasted image 20261112120513.png",
     "Systems/Pragmatic Programmer.md",
-    "backend/Chapters/Chapter 6.md",
     "Pasted image 20261111082515.png",
     "backend/Chapters/Chapter 5.md",
     "backend/Images/Pasted image 20261111082127.png",
@@ -220,7 +219,6 @@
     "Systems/Images",
     "Systems/Images/Pasted image 20261110111640.png",
     "backend/Images/Pasted image 20261110110349.png",
-    "backend/Images/Pasted image 20261110110157.png",
     "backend/Chapters/Chapter 4.md",
     "backend/Chapters/Chapter 3.md",
     "backend/Chapters/Chapter 2.md",
