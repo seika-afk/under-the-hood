@@ -1,4 +1,4 @@
-
+# HTTPS + CORS
 
 Application layer” means it’s the topmost layer, the one that defines the _meaning_ of a message (this is a GET for `/users/5`)
 

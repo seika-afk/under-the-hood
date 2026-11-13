@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "0c261ae13f32b743",
+            "id": "ea35d4f3d70e8c41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Chapters/Chapter 6.md",
+                "file": "backend/Chapters/Chapter 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6"
+              "title": "Chapter 7"
             }
           }
         ]
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c46efba7d13bd657",
@@ -203,14 +202,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "055a1338bc695e50",
+  "active": "cb1eb948beec5295",
   "lastOpenFiles": [
-    "backend/Chapters/Chapter 6.md",
-    "Pasted image 20261112120859.png",
-    "Pasted image 20261112120550.png",
-    "Pasted image 20261112120513.png",
+    "backend/Chapters/Chapter 7.md",
+    "backend/Images/Pasted image 20261113070519.png",
     "Systems/Pragmatic Programmer.md",
-    "Pasted image 20261111082515.png",
+    "backend/Chapters/Chapter 1.md",
+    "backend/Chapters/Chapter 6.md",
+    "Books.canvas",
+    "backend/Images/Pasted image 20261112120859.png",
+    "backend/Images/Pasted image 20261112120550.png",
+    "backend/Images/Pasted image 20261112120513.png",
+    "backend/Images/Pasted image 20261111082515.png",
     "backend/Chapters/Chapter 5.md",
     "backend/Images/Pasted image 20261111082127.png",
     "backend/Images/Pasted image 20261111081512.png",
@@ -218,13 +221,10 @@
     "backend/Images/Pasted image 20261111081236.png",
     "Systems/Images",
     "Systems/Images/Pasted image 20261110111640.png",
-    "backend/Images/Pasted image 20261110110349.png",
     "backend/Chapters/Chapter 4.md",
     "backend/Chapters/Chapter 3.md",
     "backend/Chapters/Chapter 2.md",
-    "backend/Chapters/Chapter1/HTTPS + CORS.md",
     "6.md",
-    "Books.canvas",
     "Systems",
     "Welcome.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/tsx/dist/esm/api/index.mjs",
@@ -249,7 +249,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/ms/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/express-serve-static-core/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/express/README.md"
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md"
   ]
 }
