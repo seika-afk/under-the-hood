@@ -35,8 +35,7 @@
               "title": "Chapter 7.5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c46efba7d13bd657",
@@ -203,10 +203,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb1eb948beec5295",
+  "active": "055a1338bc695e50",
   "lastOpenFiles": [
-    "backend/Chapters/Chapter 7.md",
+    "Pasted image 20261114094732.png",
     "backend/Chapters/Chapter 7.5.md",
+    "backend/Chapters/Chapter 7.md",
     "backend/Images/Pasted image 20261114092904.png",
     "backend/Images/Pasted image 20261114092702.png",
     "backend/Images/Pasted image 20261114092605.png",
@@ -250,7 +251,6 @@
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/node/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/ms/README.md",
     "backend/DEMOS/JWT_auth/ts/node_modules/@types/express-serve-static-core/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md",
-    "backend/DEMOS/JWT_auth/ts/node_modules/@types/http-errors/README.md"
+    "backend/DEMOS/JWT_auth/ts/node_modules/@types/jsonwebtoken/README.md"
   ]
 }

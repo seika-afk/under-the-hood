@@ -179,27 +179,77 @@ No one knows what the future may hold, especially not us! So enable your code to
 
 ## 12 . Tracer Bullets
 
+That same principle applies to projects, particularly when you’re building something that hasn’t been built before. We use the term tracer bullet development to visually illustrate the need for immediate feedback under actual conditions with a moving goal.
+
+Like the gunners, you’re trying to hit a target in the dark. Because your users have never seen a system like this before, their requirements may be vague. Because you may be using algorithms, techniques, languages, or libraries you aren’t familiar with, you face a large number of unknowns. And because projects take time to complete, you can pretty much guarantee the environment you’re working in will change before you’re done.
 
 
+```
+Look for the important requirements, the ones that define the system. Look for the areas where you have doubts, and where you see the biggest risks. Then prioritize your development so that these are the first areas you code.
+```
 
 
+```
+Tracer development is an approach where you develop software by first making the execution flow visible and understandable 
+
+like having stated function : input and output
+files imported etc
+```
+
+Tracer code is code written specifically to observe or record the execution of a program.
+
+tracer code example:
+
+define everything without logic yet
 
 
+(for logging)
+```
+def calculate_total(price, quantity):
+    print("[TRACE] Entering calculate_total")
+    print(f"[TRACE] price={price}, quantity={quantity}")
+
+    result = price * quantity
+
+    print(f"[TRACE] Returning {result}")
+    return result
 
 
+def apply_discount(total):
+    print("[TRACE] Entering apply_discount")
+
+    result = total * 0.9
+
+    print(f"[TRACE] Returning {result}")
+    return result
 
 
+def checkout(price, quantity):
+    print("[TRACE] Entering checkout")
+
+    total = calculate_total(price, quantity)
+    final = apply_discount(total)
+
+    print("[TRACE] Checkout completed")
+    return final
 
 
+print(checkout(100, 2))
+```
+
+```
+[TRACE] Entering checkout
+[TRACE] Entering calculate_total
+[TRACE] price=100, quantity=2
+[TRACE] Returning 200
+[TRACE] Entering apply_discount
+[TRACE] Returning 180.0
+[TRACE] Checkout completed
+180.0
+```
+
+![[Pasted image 20261114094732.png]]
 
 
-
-
-
-
-
-
-
-
-
+# Prototypes
 
