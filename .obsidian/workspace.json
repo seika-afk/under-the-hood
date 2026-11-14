@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backend/Chapters/Chapter 7.md",
+                "file": "backend/Chapters/Chapter 7.5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7"
+              "title": "Chapter 7.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,22 +206,23 @@
   "active": "cb1eb948beec5295",
   "lastOpenFiles": [
     "backend/Chapters/Chapter 7.md",
-    "backend/Images/Pasted image 20261113070519.png",
+    "backend/Chapters/Chapter 7.5.md",
+    "backend/Images/Pasted image 20261114092904.png",
+    "backend/Images/Pasted image 20261114092702.png",
+    "backend/Images/Pasted image 20261114092605.png",
+    "backend/Images/Pasted image 20261114092556 1.png",
+    "backend/Images/Pasted image 20261114092556.png",
+    "backend/Images/Pasted image 20261114092444.png",
+    "backend/Images/Pasted image 20261114092029.png",
+    "backend/Images/Pasted image 20261114091910.png",
+    "backend/Images/Pasted image 20261114091802.png",
     "Systems/Pragmatic Programmer.md",
+    "backend/Images/Pasted image 20261113070519.png",
     "backend/Chapters/Chapter 1.md",
     "backend/Chapters/Chapter 6.md",
     "Books.canvas",
-    "backend/Images/Pasted image 20261112120859.png",
-    "backend/Images/Pasted image 20261112120550.png",
-    "backend/Images/Pasted image 20261112120513.png",
-    "backend/Images/Pasted image 20261111082515.png",
     "backend/Chapters/Chapter 5.md",
-    "backend/Images/Pasted image 20261111082127.png",
-    "backend/Images/Pasted image 20261111081512.png",
-    "backend/Images/Pasted image 20261111081311.png",
-    "backend/Images/Pasted image 20261111081236.png",
     "Systems/Images",
-    "Systems/Images/Pasted image 20261110111640.png",
     "backend/Chapters/Chapter 4.md",
     "backend/Chapters/Chapter 3.md",
     "backend/Chapters/Chapter 2.md",
