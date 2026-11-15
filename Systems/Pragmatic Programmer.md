@@ -253,3 +253,27 @@ print(checkout(100, 2))
 
 # Prototypes
 
+
+Like the car makers, we can target a prototype to test one or more specific aspects of a project.
+
+### Estimating
+
+![[Pasted image 20261115100323.png]]
+
+o, if after doing all the necessary work, you decide that a project will take 125 working days (25 weeks), you might want to deliver an estimate of “about six months.”
+
+
+Before you get too committed to model building, cast around for someone who’s been in a similar situation in the past. See how their problem got solved. It’s unlikely you’ll ever find an exact match, but you’d be surprised how many times you can successfully draw on others’ experiences.
+
+
+```
+“How long will it take to paint the house?”
+
+“Well, if everything goes right, and this paint has the coverage they claim, it might be as few as 10 hours. But that’s unlikely: I’d guess a more realistic figure is closer to 18 hours. And, of course, if the weather turns bad, that could push it out to 30 or more.”
+
+That’s how people estimate in the real world. Not with a single number (unless you force them to give you one) but with a range of scenarios
+
+```
+
+
+![[Pasted image 20261115101150.png]]
