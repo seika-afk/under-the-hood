@@ -35,7 +35,8 @@
               "title": "Chapter 6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c46efba7d13bd657",
@@ -202,14 +204,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb1eb948beec5295",
+  "active": "ea35d4f3d70e8c41",
   "lastOpenFiles": [
+    "Systems/Pragmatic Programmer.md",
     "Systems/Images/Pasted image 20261115101150.png",
     "Systems/Images/Pasted image 20261115100323.png",
     "backend/Chapters/Chapter 6.md",
     "backend/Chapters/Chapter 7.md",
     "backend/Chapters/Chapter 7.5.md",
-    "Systems/Pragmatic Programmer.md",
     "Systems/Images/Pasted image 20261114094732.png",
     "backend/Images/Pasted image 20261114092904.png",
     "backend/Images/Pasted image 20261114092702.png",
@@ -218,7 +220,6 @@
     "backend/Images/Pasted image 20261114092556.png",
     "backend/Images/Pasted image 20261114092444.png",
     "backend/Images/Pasted image 20261114092029.png",
-    "backend/Images/Pasted image 20261114091910.png",
     "backend/Chapters/Chapter 1.md",
     "Books.canvas",
     "backend/Chapters/Chapter 5.md",

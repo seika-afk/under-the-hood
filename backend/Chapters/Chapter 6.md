@@ -1,5 +1,8 @@
 ![[Pasted image 20261111082515.png]]
 
+Code references 
+/projs/fifgo/book_store
+/projs/fifgo/birthday_mysqldb
 
 #### Entry point
 
