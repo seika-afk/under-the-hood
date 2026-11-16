@@ -271,9 +271,37 @@ Before you get too committed to model building, cast around for someone who’s 
 
 “Well, if everything goes right, and this paint has the coverage they claim, it might be as few as 10 hours. But that’s unlikely: I’d guess a more realistic figure is closer to 18 hours. And, of course, if the weather turns bad, that could push it out to 30 or more.”
 
-That’s how people estimate in the real world. Not with a single number (unless you force them to give you one) but with a range of scenarios
+That’s how people estimate in the real world. Not with a
+ single number (unless you force them to give you one) but with a range of scenarios
 
 ```
 
 
 ![[Pasted image 20261115101150.png]]
+
+---
+
+# Chapter 3 
+
+
+As Pragmatic Programmers, our base material isn’t wood or iron, it’s knowledge. We gather requirements as knowledge
+We gather requirements as knowledge, and then express that knowledge in our designs, implementations, tests, and documents
+
+#### Debugging
+
+- check failing testcases
+- read the damn error
+- logging tracing
+- process of elimination
+```
+- Is the problem being reported a direct result of the underlying bug, or merely a symptom?
+    
+- Is the bug really in the framework you’re using? Is it in the OS? Or is it in your code?
+    
+- If you explained this problem in detail to a coworker, what would you say?
+    
+- If the suspect code passes its unit tests, are the tests complete enough? What happens if you run the tests with this data?
+    
+- Do the conditions that caused this bug exist anywhere else in the system? Are there other bugs still in the larval stage, just waiting to hatch?
+```
+
