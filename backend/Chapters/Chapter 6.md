@@ -4,6 +4,8 @@ Code references
 /projs/fifgo/book_store
 /projs/fifgo/birthday_mysqldb
 
+(go)Best repo for this : https://github.com/seika-afk/Restaurant-Backend-GO
+(ts/next) https://github.com/seika-afk/Pairleet
 #### Entry point
 
 When a request arrives, the operating system forwards the HTTP request to whichever **port** your server is listening on, `:3000`, `:4000`, or any port you configured. The point where your server first receives that request is its **entry point**. Your server is always _listening_ on that port, and that listening is how it picks up incoming requests.
