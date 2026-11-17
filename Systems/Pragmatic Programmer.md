@@ -305,3 +305,23 @@ We gather requirements as knowledge, and then express that knowledge in our desi
 - Do the conditions that caused this bug exist anywhere else in the system? Are there other bugs still in the larval stage, just waiting to hatch?
 ```
 
+---
+### VIDEO TUTORIAL ON DEBUGGING
+debugging  is getting away from delusion of what you think your code does vs what it actually does
+
+- you cant change everything
+	- so you gotta prioritize ,what things can fail on priority
+```
+readability
+formating
+```
+
+-- dont think of how feature can  be useful, but rather how it can go wrong
+
+`you should not be thinking about the syntax but the problem you are trying to solve`
+
+typing is easy - debugging is hard
+
+
+opensource could help , finding the issue in the current codebase type shit
+-> making a algo type for myself 
