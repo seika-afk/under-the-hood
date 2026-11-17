@@ -325,3 +325,18 @@ typing is easy - debugging is hard
 
 opensource could help , finding the issue in the current codebase type shit
 -> making a algo type for myself 
+
+```
+investigative technique
+
+- narrow down the bug 
+	  - at what point after that error begins(see ins and outs of all folders)
+- use a visual debugger
+-or
+- print functions
+- validation functions(validates data)
+- tests
+- lanugage doesnt know your constraints
+- make code deterministic
+```
+
