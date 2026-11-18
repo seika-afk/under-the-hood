@@ -35,7 +35,8 @@
               "title": "Chapter 6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c46efba7d13bd657",
@@ -203,10 +203,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "055a1338bc695e50",
+  "active": "ea35d4f3d70e8c41",
   "lastOpenFiles": [
-    "backend/Chapters/Chapter 6.md",
     "Systems/Pragmatic Programmer.md",
+    "backend/Chapters/Chapter 6.md",
     "Systems/Images/Pasted image 20261115101150.png",
     "Systems/Images/Pasted image 20261115100323.png",
     "backend/Chapters/Chapter 7.md",

@@ -1,3 +1,5 @@
+Started : 06 November 2026
+Ended : 
 # Chapter 0
 
 Pragmatic philosophy is the idea that you should judge ideas, decisions, and actions by their practical consequences and whether they actually work in reality
@@ -12,7 +14,7 @@ Provide Options, Don’t Make Lame Excuses
 When you find yourself saying, “I don’t know,” be sure to follow it up with “—but I’ll find out.” It’s a great way to admit what you don’t know, but then take responsibility
 ```
 
-==Psychologists have done studies  that show hopelessness can be contagious==
+==🟢hopelessness can be contagious==
 
 ```
 Don’t Live with Broken Windows
