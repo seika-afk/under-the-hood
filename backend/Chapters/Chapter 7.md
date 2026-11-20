@@ -109,3 +109,4 @@ Pass resource fields as query params to narrow the list: `?status=active`, or co
 ### 6. Version your API
 ### 7. Handle collections gracefully
 ### 8. Design clear, structured errors
+### 9 . Complete
